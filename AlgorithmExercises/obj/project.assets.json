@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\RecursionExercises\\AlgorithmExercises.csproj",
+      "projectUniqueName": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\AlgorithmExercises\\AlgorithmExercises.csproj",
       "projectName": "AlgorithmExercises",
-      "projectPath": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\RecursionExercises\\AlgorithmExercises.csproj",
+      "projectPath": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\AlgorithmExercises\\AlgorithmExercises.csproj",
       "packagesPath": "C:\\Users\\140014\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\RecursionExercises\\obj\\",
+      "outputPath": "C:\\Users\\140014\\source\\repos\\GrokkingAlgorithms\\AlgorithmExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\140014\\AppData\\Roaming\\NuGet\\NuGet.Config",
