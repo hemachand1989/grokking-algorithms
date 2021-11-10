@@ -1,0 +1,13 @@
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.exe
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.deps.json
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.runtimeconfig.json
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.runtimeconfig.dev.json
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.dll
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\bin\Debug\netcoreapp3.1\AlgorithmExercises.pdb
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.csprojAssemblyReference.cache
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.AssemblyInfoInputs.cache
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.AssemblyInfo.cs
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.csproj.CoreCompileInputs.cache
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.dll
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.pdb
+C:\Users\140014\source\repos\GrokkingAlgorithms\RecursionExercises\obj\Debug\netcoreapp3.1\AlgorithmExercises.genruntimeconfig.cache
